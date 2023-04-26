@@ -1,5 +1,5 @@
 <h1 align="center">Whats up! I'm Darrian 🐒</h1>
-<h3 align="center">Computer Science student at WIT '24 🐆 </h3>
+<h3 align="center">Computer Science Student at WIT '24 🐆 </h3>
 
 - ✍🏽 Currently working with my buddy Isaac on [LAP: Lift and Progress](https://github.com/iurman/lap-fitness)
 
