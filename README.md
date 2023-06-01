@@ -7,7 +7,7 @@
 
 - 🗣️ You can reach me @**monkeyy#6663 on Discord or yangd2@wit.edu by Email**
 
-- ⚡ Fun Facto: **I fixed my knee by not going to the doctor.. I started running**
+- ⚡ Fun Facto: **I injured my knee pretty bad and to fix it, I started running**
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
