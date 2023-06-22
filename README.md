@@ -5,7 +5,7 @@
 
 - 🤔 Currently learning **Operating Systems, Ethical Hacking, Python 🐍, and JS!**
 
-- 🗣️ You can reach me @**monkeyy#6663 on Discord or yangd2@wit.edu by Email**
+- 🗣️ You can reach me @**monkeyy#6663 on Discord or darrianyang978@gmail.com by Email**
 
 - ⚡ Fun Facto: **I injured my knee pretty bad and to fix it, I started running**
 
