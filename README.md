@@ -7,7 +7,7 @@
 
 - 🗣️ You can reach me @**monkeyy#6663 on Discord or darrianyang978@gmail.com by Email**
 
-- ⚡ Fun Facto: **I injured my knee pretty bad and to fix it, I started running**
+- ⚡ Fun Fact: **I injured my knee pretty bad and to fix it, I started running**
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
