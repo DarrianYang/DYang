@@ -3,7 +3,7 @@
 
 - ✍🏽 Currently working with my buddy Isaac on [LAP: Lift and Progress](https://github.com/iurman/lap-fitness)
 
-- 🤔 Currently learning **Operating Systems, Ethical Hacking, and Python 🐍**
+- 🤔 Currently learning **Operating Systems, Ethical Hacking, Python 🐍, and JS!**
 
 - 🗣️ You can reach me @**monkeyy#6663 on Discord or yangd2@wit.edu by Email**
 
