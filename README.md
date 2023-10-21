@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Application Development** and **Web Development**
 
-- 👨‍💻 All of my projects are available at [darrianyang.com](https://darrianyang.com)
+- 👨‍💻 All of my projects are available on my github profile
 
 - 📫 How to reach me **yangd2@wit.edu**
 
