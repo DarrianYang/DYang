@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my github profile
 
-- 📫 How to reach me **yangd2@wit.edu**
+- 📫 How to reach me: My socials are below and my email is yangd2@wit.edu
 
 - ⚡ Fun fact **I injured my leg biking and fixed it by running**
 
