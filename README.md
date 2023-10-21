@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LAPNT](https://github.com/DarrianYang/lapnt)
 
-- 🌱 I’m currently learning **Full Stack Application Development**
+- 🌱 I’m currently learning **Full Stack Application Development** and **Web Development**
 
 - 👨‍💻 All of my projects are available at [darrianyang.com](darrianyang.com)
 
